@@ -1,0 +1,53 @@
+# Git related
+*.orig
+*.BACKUP.*
+*.BASE.*
+*.LOCAL.*
+*.REMOTE.*
+
+# VIM specific
+*.swp
+
+# NuGet specific
+nuget.exe
+
+# Common
+*.patch
+*.log
+*.cache
+
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+bin
+obj
+db
+
+# MS CRM specific
+*.7z
+*.zip
+*.dll
+*.exe
+
+# MSTest test results
+TestResults
+
+# NUnit test results
+TestResult.xml
+
+# Visual Studio specific
+csx
+packages
+*.swp
+*.suo
+*.csproj.user
+*.user
+*.cache
+*.ncrunchsolution
+
+# MS SQL specific
+*.mdf
+*_log.ldf
+
+# Third-party tools specific
+_Resharper*
+_TeamCity*
+*StyleCop
