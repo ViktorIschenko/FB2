@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FictionBook.Parser", "FictionBook.Parser\FictionBook.Parser.csproj", "{AAC29400-F9AB-4190-9BF0-1EDE36ED10A7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FictionBook.Library", "FictionBook.Library\FictionBook.Library.csproj", "{AAC29400-F9AB-4190-9BF0-1EDE36ED10A7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FictionBook.Test", "FictionBook.Test\FictionBook.Test.csproj", "{619BDDBC-3E4A-4116-A4C5-C8722AA5F43E}"
 EndProject

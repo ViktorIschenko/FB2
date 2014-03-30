@@ -7,5 +7,7 @@ namespace FictionBook.Parser
 {
     public class Parser
     {
+
+
     }
 }
