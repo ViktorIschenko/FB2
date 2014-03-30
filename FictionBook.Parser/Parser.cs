@@ -5,7 +5,7 @@ using System.Text;
 
 namespace FictionBook.Parser
 {
-    public class Class1
+    public class Parser
     {
     }
 }
