@@ -5,13 +5,15 @@
     using System.Collections.Generic;
     using System.Linq;
     using Microsoft.VisualStudio.TestTools.UnitTesting;
+    using FictionBook.Parser;
 
     [TestClass]
-    public class ParserFixture
+    public class OpenFixture
     {
         [TestMethod]
         public void Open()
         {
+
         }
     }
 }
